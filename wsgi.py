@@ -1,3 +1,3 @@
-from new import create create_app
+from new import create_app
 
 app= create_app()
