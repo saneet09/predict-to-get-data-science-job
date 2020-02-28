@@ -8,3 +8,5 @@ gunicorn==0.14.2
 requests==0.11.1
 psycopg2==2.7.7
 pycurl==7.19.3.1
+gitsome
+setuptools
