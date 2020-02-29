@@ -5,7 +5,7 @@ appdirs==1.4.3
 articleDateExtractor==0.20
 asn1crypto==0.24.0
 anaconda==0.0.1
-anaconda-client==1.7.2
+anaconda-client==1.2.2
 astor==0.8.0
 astroid==2.0.4
 astropy==3.0.4
