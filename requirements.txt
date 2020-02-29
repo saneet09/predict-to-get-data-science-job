@@ -4,7 +4,7 @@ altair==3.0.1
 appdirs==1.4.3
 articleDateExtractor==0.20
 asn1crypto==0.24.0
-anaconda==5.3.0
+anaconda==0.0.1
 anaconda-client==1.7.2
 astor==0.8.0
 astroid==2.0.4
