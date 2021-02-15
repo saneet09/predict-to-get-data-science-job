@@ -1,4 +1,4 @@
-# task
+# using machine learning model to predict weather the student will get a data science job or no
 ## Input
 ![Image description](https://github.com/saneet09/task/blob/master/b.png)
 
