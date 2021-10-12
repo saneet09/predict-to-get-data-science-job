@@ -150,7 +150,7 @@ numpy==1.17.2
 numpydoc==0.8.0
 odo==0.5.0
 olefile==0.46
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 openpyxl==2.5.6
 openTSNE==0.3.0
 opt-einsum==3.0.1
